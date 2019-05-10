@@ -29,9 +29,6 @@
 //hp 450 800
 using namespace std;
 
-#include <alphabeta.h>
-#include <alphabeta.cpp>
-
 typedef struct  WAV_HEADER
 {
     char                RIFF[4];        // RIFF Header      Magic header
